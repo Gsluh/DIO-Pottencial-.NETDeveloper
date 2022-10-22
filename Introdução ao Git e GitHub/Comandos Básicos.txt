@@ -1,0 +1,12 @@
+No Windows:
+-cd (se mover entre os arquivos e diretórios)
+-dir (fazer a listagem de diretórios de uma pasta)
+-mkdir (criar um arquivo)
+-del/rmdir (remover e deletar arquivos ou diretórios)
+
+No Unix:
+-cd (se mover entre os arquivos e diretórios)
+-ls (fazer a listagem de diretórios de uma pasta)
+-mkdir (criar um arquivo)
+-rm -rf (remover e deletar arquivos ou diretórios)
+- git clone (clonar repositórios)
